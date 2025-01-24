@@ -16,13 +16,13 @@ const Footer = () => (
 
     <div className={styles.rights}>
       Developed by{" "}
-      <a href="https://youtube.com/" target="_blank" rel="noreferrer">
-        Tomkovich
+      <a href="#" target="_blank" rel="noreferrer">
+        Shakxzodbek
       </a>
     </div>
 
     <div className={styles.socials}>
-      <a href="https://instagram.com" target="_blank" rel="noreferrer">
+      <a href="https://instagram.com/shakxzodbee" target="_blank" rel="noreferrer">
         <svg className="icon">
           <use xlinkHref={`${process.env.PUBLIC_URL}/sprite.svg#instagram`} />
         </svg>
@@ -34,7 +34,7 @@ const Footer = () => (
         </svg>
       </a>
 
-      <a href="https://youtube.com" target="_blank" rel="noreferrer">
+      <a href="#" target="_blank" rel="noreferrer">
         <svg className="icon">
           <use xlinkHref={`${process.env.PUBLIC_URL}/sprite.svg#youtube`} />
         </svg>
